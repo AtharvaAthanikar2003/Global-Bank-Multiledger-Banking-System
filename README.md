@@ -53,32 +53,31 @@ Relevant for:
 
 ## 🖥️ System Design
 
-![System Design](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/Global%20Bank%20Multiledger%20Banking%20System.png?raw=true)
+![System Design](https://raw.githubusercontent.com/AtharvaAthanikar2003/Global-Bank-Multiledger-System/master/Global%20Bank%20Multiledger%20System/Global%20Bank%20Multiledger%20Banking%20System.png)
 
 ---
 
 ## 🖥️ Application Interface
 
-### 🇮🇳 India – INR Account
-![INR Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/INR%20Account.png?raw=true)
+### 🌏 India – INR Account
+![INR Account](https://raw.githubusercontent.com/AtharvaAthanikar2003/Global-Bank-Multiledger-System/master/Global%20Bank%20Multiledger%20System/INR%20Account.png)
 
 ---
 
-### 🇺🇸 United States – USD Account
-![USD Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/USD%20Account.png?raw=true)
+### 🌎 United States – USD Account
+![USD Account](https://raw.githubusercontent.com/AtharvaAthanikar2003/Global-Bank-Multiledger-System/master/Global%20Bank%20Multiledger%20System/USD%20Account.png)
 
 ---
 
-### 🇦🇪 United Arab Emirates – AED Account
-![AED Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/AED%20Account.png?raw=true)
+### 🌍 United Arab Emirates – AED Account
+![AED Account](https://raw.githubusercontent.com/AtharvaAthanikar2003/Global-Bank-Multiledger-System/master/Global%20Bank%20Multiledger%20System/AED%20Account.png)
 
 ---
 
-### 🇦🇪 🇮🇳 UAE → India – AED Account Created on INR Account
-![AED Account created on INR Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/AED%20Account%20created%20on%20INR%20Account.png?raw=true)
+### 🔁 UAE → India – AED Account Created on INR Account
+![AED Account Created on INR Account](https://raw.githubusercontent.com/AtharvaAthanikar2003/Global-Bank-Multiledger-System/master/Global%20Bank%20Multiledger%20System/AED%20Account%20created%20on%20INR%20Account.png)
 
 ---
-
 
 ## 🗄️ Database Design (SQLite)
 
