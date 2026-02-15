@@ -53,12 +53,32 @@ Relevant for:
 
 ## 🖥️ System Design
 
+![System Design](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/Global%20Bank%20Multiledger%20Banking%20System.png?raw=true)
 
 ---
 
 ## 🖥️ Application Interface
 
+### 🇮🇳 India – INR Account
+![INR Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/INR%20Account.png?raw=true)
+
 ---
+
+### 🇺🇸 United States – USD Account
+![USD Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/USD%20Account.png?raw=true)
+
+---
+
+### 🇦🇪 United Arab Emirates – AED Account
+![AED Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/AED%20Account.png?raw=true)
+
+---
+
+### 🇦🇪 🇮🇳 UAE → India – AED Account Created on INR Account
+![AED Account created on INR Account](https://github.com/AtharvaAthanikar2003/Global-Bank-Multiledger-Banking-System/blob/master/AED%20Account%20created%20on%20INR%20Account.png?raw=true)
+
+---
+
 
 ## 🗄️ Database Design (SQLite)
 
